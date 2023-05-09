@@ -9,9 +9,6 @@ app.use(cors());
 app.use(express.json())
 
 
-//WhPwhZYkQYEoDOHI
-//user-management-system-practice
-
 
 
 const { MongoClient, ServerApiVersion, ObjectId } = require('mongodb');
